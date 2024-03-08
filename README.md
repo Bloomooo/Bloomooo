@@ -1,19 +1,7 @@
-### Bonjour, je suis [Votre Nom] 👋
+### Bonjour, je suis Yanis Mechta 👋
 
-![Banner personnalisé ou image qui vous représente](URL_de_l'image)
+Bienvenue sur mon espace GitHub ! Ici, je partage mes aventures dans le monde du développement logiciel, explorant et créant avec passion. Je suis un développeur enthousiaste, toujours prêt à relever de nouveaux défis et à apprendre de nouvelles technologies.
 
-**Bloomooo/Bloomooo** est un repos spécial ✨ car son `README.md` (ce fichier) s'affiche sur mon profil GitHub.
-
-Voici quelques idées pour vous donner un aperçu de qui je suis et de ce que je fais :
-
-- 🔭 Je travaille actuellement sur **[Nom du Projet]**, un projet visant à **[Objectif du Projet]**.
-- 🌱 J'apprends actuellement **[Technologie ou Langage]** pour améliorer mes compétences en **[Domaine Spécifique]**.
-- 👯 Je cherche à collaborer sur des projets **[Type de Projets]**, où je peux apporter mon expertise en **[Votre Domaine d'Expertise]**.
-- 🤔 Je cherche de l'aide pour **[Sujet ou Projet]**, spécifiquement besoin d'expertise en **[Compétence ou Domaine Recherché]**.
-- 💬 Posez-moi des questions sur **[Sujet ou Domaine]**, je suis toujours ouvert à partager mes connaissances et à apprendre des autres.
-- 📫 Pour me joindre, envoyez-moi un email à **[Votre Email]** ou suivez-moi sur **[Autres Plateformes Sociales]**.
-- 😄 Pronoms : **[Vos Pronoms]**.
-- ⚡ Fait amusant : **[Un fait intéressant sur vous ou votre travail]**.
 
 ### Langages et Outils
 
@@ -49,27 +37,32 @@ Voici quelques idées pour vous donner un aperçu de qui je suis et de ce que je
 #### Outils de Développement
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
+#### Environnements de Développement et Outils
+![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 
 ### Mes technologies et outils préférés :
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 
 #### J'apprends actuellement
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-
-### 📈 Mes statistiques GitHub
-
-![Vos statistiques GitHub](URL_pour_statistiques_GitHub)
-
-### 🎨 Portefeuille de projets
-
-Pour un aperçu de mon travail, consultez **[Nom du Projet avec Lien]** et **[Un autre Projet avec Lien]**.
-
-### 📝 Blog & Écriture
-
-J'aime partager mes connaissances et apprendre des autres. Consultez mon blog **[Nom du Blog avec Lien]** pour des articles sur **[Sujets ou Technologies]**.
 
 ### 💼 Où me trouver
 
-- LinkedIn : **[Votre LinkedIn]**
-- Twitter : **[Votre Twitter]**
-- Portfolio : **[URL de votre portfolio]**
+- LinkedIn : [Yanis Mechta](https://www.linkedin.com/in/votreNomUtilisateur)
+- Mail : mechtayanis20@gmail.com
+
