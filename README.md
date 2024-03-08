@@ -15,11 +15,13 @@ Voici quelques idées pour vous donner un aperçu de qui je suis et de ce que je
 - 😄 Pronoms : **[Vos Pronoms]**.
 - ⚡ Fait amusant : **[Un fait intéressant sur vous ou votre travail]**.
 
+### Langages et Outils
+![Java]([URL_du_logo](https://www.google.com/imgres?imgurl=https%3A%2F%2Fd1fmx1rbmqrxrr.cloudfront.net%2Fzdnet%2Foptim%2Fi%2Fedit%2Fne%2F2021%2F09%2Flogo_java__w1200.jpg&tbnid=dtHwgbssHiMiXM&vet=12ahUKEwjvt6aG3eSEAxW4WaQEHbTtAewQMygBegQIARBz..i&imgrefurl=https%3A%2F%2Fwww.zdnet.fr%2Fpratique%2Ftout-comprendre-a-java-39931513.htm&docid=FpIj4OK9qMd-CM&w=1200&h=678&q=java&client=opera-gx&ved=2ahUKEwjvt6aG3eSEAxW4WaQEHbTtAewQMygBegQIARBz))
+
 ### Mes technologies et outils préférés :
 
-- Langages de programmation : **[Langages]**
-- Frameworks et bibliothèques : **[Frameworks/Bibliothèques]**
-- Outils et plateformes : **[Outils/Plateformes]**
+#### J'apprends actuellement
+
 
 ### 📈 Mes statistiques GitHub
 
