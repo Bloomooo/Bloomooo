@@ -34,6 +34,12 @@ Bienvenue sur mon espace GitHub ! Ici, je partage mes aventures dans le monde du
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-00000F?style=flat-square&logo=sql&logoColor=white)
 
+#### Serveurs et Infrastructure
+![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![WAMP](https://img.shields.io/badge/-WAMP-52E0E1?style=flat-square&logo=wamp&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
 #### Outils de Développement
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
