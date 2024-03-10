@@ -36,6 +36,8 @@ Bienvenue sur mon espace GitHub ! Ici, je partage mes aventures dans le monde du
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-00000F?style=flat-square&logo=sql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Upstash](https://img.shields.io/badge/-Upstash-4A154B?style=flat-square&logo=upstash&logoColor=white)
+
 
 #### Serveurs et Infrastructure
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white)
@@ -67,8 +69,7 @@ Bienvenue sur mon espace GitHub ! Ici, je partage mes aventures dans le monde du
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-
+![Upstash](https://img.shields.io/badge/-Upstash-4A154B?style=flat-square&logo=upstash&logoColor=white)
 
 ### 💼 Où me trouver
 
