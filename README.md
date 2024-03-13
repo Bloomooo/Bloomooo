@@ -70,9 +70,12 @@ Bienvenue sur mon espace GitHub ! Ici, je partage mes aventures dans le monde du
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Upstash](https://img.shields.io/badge/-Upstash-4A154B?style=flat-square&logo=upstash&logoColor=white)
+#### Stats
+![Statistiques des Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bloomooo)
 
 ### 💼 Où me trouver
 
+- Mon site : [Portfolio](https://www.yanismechtadev.com)
 - LinkedIn : [Yanis Mechta](https://www.linkedin.com/in/yanis-mechta-3788b2251)
 - Mail : mechtayanis20@gmail.com
 
